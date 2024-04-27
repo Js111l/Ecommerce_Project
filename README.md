@@ -1,5 +1,12 @@
 # E-commerce Project
 
+
+![image](https://github.com/Js111l/Ecommerce_Project/assets/95163990/4ee7f196-2b42-41e7-abdd-3b9ad4692e83)
+
+
+
+
+
 ## Product Service: 
 https://github.com/Js111l/ProductService
 
