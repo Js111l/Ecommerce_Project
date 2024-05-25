@@ -12,7 +12,8 @@ Microservice e-commerce project that consist of 5 services written in Java and S
 * [Setup](#setup)
 
 ## General info
-Project is currently in development of specified features.
+Project is currently in development.
+
 The system is built based on a microservices architecture and consists of five services: ProductService, PriceService, FinancialTransactionsService, InventoryService, and CheckoutService. 
 CheckoutService is responsible for handling products in the shopping cart. The service implements typical CRUD functionality related to individual products in the cart and communicates with PriceService to retrieve current prices for the given products.
 PriceService also implements CRUD functionality related to prices and promotions for specific products or categories of products. The service includes an appropriate algorithm for calculating the price for each active product. 
